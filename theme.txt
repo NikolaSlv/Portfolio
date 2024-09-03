@@ -1,0 +1,5 @@
+Background - #FAF9F6
+Accent     - #004D99
+Text       - #333333
+Borders    - #242424
+Cards      - #5C7693

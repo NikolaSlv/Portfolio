@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .heroButton {
+    @apply px-6 py-2 border border-[#242424] rounded-full uppercase text-xs
+    tracking-widest text-[#333333] transition-all hover:border-[#004D99]/40
+    hover:text-[#004D99]/40;
+  }
+
+  .contactInput {
+    @apply outline-none bg-slate-400/10 rounded-sm border-b px-6 py-4 border-[#242424]
+    text-[#333333] placeholder-gray-500 transition-all focus:border-[#004D99]/50
+    focus:text-[#004D99] hover:border-[#004D99]/50
+  }
+}
