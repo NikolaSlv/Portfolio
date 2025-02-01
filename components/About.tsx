@@ -42,7 +42,7 @@ export default function About({ pageInfo }: Props) {
 
       <div className="max-h-[350px] overflow-y-auto scroll-smooth scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#004D99]/80">
         <div className='space-y-10 px-0 md:px-10'>
-          <h4 className='text-2xl font-semibold'>Here is a <span className='underline decoration-[#004D99]/50'>little</span> background</h4>
+          <h4 className='text-2xl font-semibold'>Background</h4>
           <p className='text-base'>
             {pageInfo?.backgroundInformation}
           </p>

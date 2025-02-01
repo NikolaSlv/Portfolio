@@ -58,11 +58,6 @@ export default function ContactMe({ }: Props) {
       </h3>
 
       <div className='flex flex-col space-y-10'>
-        <h4 className='text-2xl font-semibold text-center'>
-          I have got just what you need.{" "}
-          <span className='decoration-[#004D99]/50 underline'>Let's Talk.</span>
-        </h4>
-
         <div className='space-y-5'>
           <div className='flex items-center space-x-5 justify-center'>
             <PhoneIcon className='text-[#004D99] h-7 w-7 animate-pulse' />
