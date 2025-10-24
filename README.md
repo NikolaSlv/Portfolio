@@ -5,12 +5,13 @@
     <img
       alt="Open Live Site"
       src="https://img.shields.io/badge/LIVE%20SITE-OPEN-0A84FF?style=for-the-badge&labelColor=2f2f2f"
-      height="42"
+      height="52"
     />
   </a>
 </p>
 
 ---
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
