@@ -1,8 +1,16 @@
+---
+
 <p align="center">
   <a href="https://portfolio-6q74xdxta-nikolas-projects-c9577deb.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Site-Open-0A84FF?style=for-the-badge" alt="Open Live Site">
+    <img
+      alt="Open Live Site"
+      src="https://img.shields.io/badge/LIVE%20SITE-OPEN-0A84FF?style=for-the-badge&labelColor=2f2f2f"
+      height="42"
+    />
   </a>
 </p>
+
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
