@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <a href="https://portfolio-6q74xdxta-nikolas-projects-c9577deb.vercel.app/">
+  <a href="https://portfolio-vert-two-82.vercel.app/">
     <img
       alt="Open Live Site"
       src="https://img.shields.io/badge/LIVE%20SITE-OPEN-0A84FF?style=for-the-badge&labelColor=2f2f2f"
